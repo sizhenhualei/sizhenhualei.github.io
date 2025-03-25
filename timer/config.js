@@ -2,7 +2,7 @@
 // 字符串请用""包住
 // 
 // 辩题
-var name_topic = "是不是鸡扒"
+var name_topic = "待修改"
 // 正方队伍名称
 var name_aff = "正方"
 // 反方队伍名称
